@@ -1,0 +1,10 @@
+.idea
+*.jar
+*.zip
+varbits
+structs
+scripts
+enums
+dumps/sprites
+dumps/world_map_big
+dumps/world_map_small
